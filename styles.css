@@ -1,0 +1,48 @@
+* {
+    font-family: Roboto, sans-serif;
+}
+
+.header {
+    background-color: #1F2937;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.left-links a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+.big-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.header-image img {
+    width: 500px;
+    height: 250px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
+
+.signup-button {
+    color: #F9FAF8;
+    text-decoration: none;
+    background-color: #3882f6;
+    padding: 8px 32px;
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+}
+
+.header-track {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
